@@ -8,5 +8,5 @@
 
 ## Footprints
 
-- SPDT switch symbol and footprint
+- SPDT switch
 
